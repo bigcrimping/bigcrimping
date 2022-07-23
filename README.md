@@ -34,3 +34,10 @@ Link to project: Coming Soon
 
 ![image](https://user-images.githubusercontent.com/74270551/180445957-b12bb1a3-aec7-4521-8631-f4b6b8f7f7a3.png)
 
+# Nuclear Event Detector
+
+Utilising a HSN-1000 NED device and a soviet aircraft warning lamp a 20ms warning that a nuke has been exploded nearby. Useful
+
+Link to project: Coming Soon
+
+![image](https://user-images.githubusercontent.com/74270551/180602561-18a4e819-66f3-47ea-8e1f-806eeda9c21f.png)

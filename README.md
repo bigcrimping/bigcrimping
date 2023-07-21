@@ -10,6 +10,13 @@ Link to project: https://github.com/bigcrimping/flare_meter
 
 ![image](https://user-images.githubusercontent.com/74270551/180198689-856a7521-7ceb-471e-8b40-b6d9c847180a.png)
 
+# Radiation Spinner
+A device which uses a Tevisio BG51 pin array to detect beta/gamma/X-ray and spin a OG-4 Dekatron device
+
+![spinner](https://github.com/bigcrimping/bigcrimping/assets/74270551/8ac0a657-a61d-4ec3-954a-0c5b0e55853e)
+
+Link to project: https://github.com/bigcrimping/radiation_spinner
+
 # Tide Height Meter
 
 Using Nixie tubes to display the current tide height in my local harbour

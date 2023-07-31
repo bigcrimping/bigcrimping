@@ -21,9 +21,10 @@ Link to project: https://github.com/bigcrimping/radiation_spinner
 
 Using Nixie tubes to display the current tide height in my local harbour
 
-Link to project: Coming Soon
+Link to project: https://github.com/bigcrimping/tide_meter/
 
-![image](https://user-images.githubusercontent.com/74270551/180445752-34de3a93-66f6-43ef-ac30-e4371969690e.png)
+![image](https://github.com/bigcrimping/bigcrimping/assets/74270551/0fe76678-bbf9-4537-b2a7-b4f81fb6c4bc)
+
 
 # Camencutter
 

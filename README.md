@@ -25,6 +25,14 @@ Link to project: https://github.com/bigcrimping/tide_meter/
 
 ![image](https://github.com/bigcrimping/bigcrimping/assets/74270551/0fe76678-bbf9-4537-b2a7-b4f81fb6c4bc)
 
+# Barometer
+
+A reimagining of a classic barometer using a BMP280 pressure sensor and aircraft indicators
+
+Link to project: https://github.com/bigcrimping/barometer/
+
+![main_pic](https://github.com/bigcrimping/bigcrimping/assets/74270551/2ae00b9c-c86c-422c-a013-b6bcabc0d514)
+
 
 # Camencutter
 

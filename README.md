@@ -38,9 +38,10 @@ Link to project: https://github.com/bigcrimping/barometer/
 
 Solving the problem of how to cut a camembert into equal 120 degree sections
 
-Link to project: Coming Soon
+Link to project: https://github.com/bigcrimping/camencutter
 
-![image](https://user-images.githubusercontent.com/74270551/180445862-144b700b-9c67-4e25-a4cf-1d568a6edc00.png)
+![photo](https://github.com/bigcrimping/bigcrimping/assets/74270551/d017fec4-91d8-4677-8b0f-196dd2af6842)
+
 
 # Pepper Drill
 

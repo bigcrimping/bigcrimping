@@ -66,3 +66,12 @@ Utilising a HSN-1000 NED device and a soviet aircraft warning lamp a 20ms warnin
 Link to project: Coming Soon
 
 ![image](https://user-images.githubusercontent.com/74270551/180602561-18a4e819-66f3-47ea-8e1f-806eeda9c21f.png)
+
+# Crocatinny
+
+A Picatinny style rail for your Crocs
+
+![image](https://github.com/bigcrimping/bigcrimping/assets/74270551/db0ab586-01c8-4b59-8617-c59f3a868af6)
+
+Link to project: https://github.com/bigcrimping/crocatinny/
+

@@ -71,7 +71,7 @@ Link to project: Coming Soon
 
 A Picatinny style rail for your Crocs
 
-![image](https://github.com/bigcrimping/bigcrimping/assets/74270551/db0ab586-01c8-4b59-8617-c59f3a868af6)
+![image](https://github.com/bigcrimping/bigcrimping/assets/74270551/c236313c-fb21-4bd5-8ac2-a07d43394c58)
 
 Link to project: https://github.com/bigcrimping/crocatinny/ also at https://www.thingiverse.com/thing:6279456
 

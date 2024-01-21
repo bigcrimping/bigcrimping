@@ -11,6 +11,7 @@ Link to project: https://github.com/bigcrimping/flare_meter
 ![image](https://user-images.githubusercontent.com/74270551/180198689-856a7521-7ceb-471e-8b40-b6d9c847180a.png)
 
 # Radiation Spinner
+
 A device which uses a Tevisio BG51 pin array to detect beta/gamma/X-ray and spin a OG-4 Dekatron device
 
 ![spinner](https://github.com/bigcrimping/bigcrimping/assets/74270551/8ac0a657-a61d-4ec3-954a-0c5b0e55853e)
@@ -24,6 +25,15 @@ Using Nixie tubes to display the current tide height in my local harbour
 Link to project: https://github.com/bigcrimping/tide_meter/
 
 ![image](https://github.com/bigcrimping/bigcrimping/assets/74270551/0fe76678-bbf9-4537-b2a7-b4f81fb6c4bc)
+
+# Lightning Popper
+
+A device which detects incoming lightning and thunder and sets off a party popper
+
+Link to project: https://github.com/bigcrimping/lightning_popper/
+
+![complete](https://github.com/bigcrimping/bigcrimping/assets/74270551/8dc8f1cd-deff-4cc8-b870-760c8646e2c6)
+
 
 # Barometer
 

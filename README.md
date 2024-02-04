@@ -34,6 +34,14 @@ Link to project: https://github.com/bigcrimping/lightning_popper/
 
 ![complete](https://github.com/bigcrimping/bigcrimping/assets/74270551/8dc8f1cd-deff-4cc8-b870-760c8646e2c6)
 
+# submerge
+
+IN-9 based wave meter running on ESP8266.
+
+Link to project: https://github.com/bigcrimping/submerge
+
+![submerge](https://github.com/bigcrimping/bigcrimping/assets/74270551/fd600207-9fcd-4a25-8b34-0804f7870bad)
+
 
 # Barometer
 

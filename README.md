@@ -60,15 +60,6 @@ Link to project: https://github.com/bigcrimping/camencutter
 
 ![photo](https://github.com/bigcrimping/bigcrimping/assets/74270551/d017fec4-91d8-4677-8b0f-196dd2af6842)
 
-
-# Pepper Drill
-
-Drill attachment for the pepper lover with limited time
-
-Link to project: https://github.com/bigcrimping/pepper_drill
-
-![image](https://user-images.githubusercontent.com/74270551/180445957-b12bb1a3-aec7-4521-8631-f4b6b8f7f7a3.png)
-
 # Finger Washer
 
 A washer, but for your finger
@@ -77,6 +68,14 @@ A washer, but for your finger
 
 Link to project: https://github.com/bigcrimping/finger_washer/
 
+# CanPan
+
+The panless cooking solution
+
+![refriedbeans_silicone](https://github.com/user-attachments/assets/3edb5dcf-05ee-48b7-9dd6-43279eb4ce2e)
+
+Link to project: https://github.com/bigcrimping/CanPan
+
 # Nuclear Event Detector
 
 Utilising a HSN-1000 NED device and a soviet aircraft warning lamp a 20ms warning that a nuke has been exploded nearby. Useful
@@ -84,6 +83,14 @@ Utilising a HSN-1000 NED device and a soviet aircraft warning lamp a 20ms warnin
 Link to project: Coming Soon
 
 ![image](https://user-images.githubusercontent.com/74270551/180602561-18a4e819-66f3-47ea-8e1f-806eeda9c21f.png)
+
+# Pepper Drill
+
+Drill attachment for the pepper lover with limited time
+
+Link to project: https://github.com/bigcrimping/pepper_drill
+
+![image](https://user-images.githubusercontent.com/74270551/180445957-b12bb1a3-aec7-4521-8631-f4b6b8f7f7a3.png)
 
 # Crocatinny
 

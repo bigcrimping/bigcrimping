@@ -6,6 +6,8 @@ A collection of the projects I work on in my spare time
 
 A Raspberry Pi pico project built on Micropython to mill, dispense and weigh pepper
 
+https://github.com/bigcrimping/pepper_mill/
+
 ![pepper](https://github.com/user-attachments/assets/c2a5d115-3f15-4f5c-9b1b-34eb589b6913)
 
 https://github.com/user-attachments/assets/c9c53ded-4c93-4834-9c5d-54ee37c73243

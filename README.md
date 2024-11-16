@@ -2,6 +2,14 @@
 
 A collection of the projects I work on in my spare time
 
+# Pepper Mill
+
+A Raspberry Pi pico project built on Micropython to mill, dispense and weigh pepper
+
+![pepper](https://github.com/user-attachments/assets/c2a5d115-3f15-4f5c-9b1b-34eb589b6913)
+
+https://github.com/user-attachments/assets/c9c53ded-4c93-4834-9c5d-54ee37c73243
+
 # Flare Meter
 
 Visual representation of X-ray Flare information from GOES-16 satellite

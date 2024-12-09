@@ -12,6 +12,15 @@ https://github.com/bigcrimping/pepper_mill/
 
 https://github.com/user-attachments/assets/c9c53ded-4c93-4834-9c5d-54ee37c73243
 
+# Study in Entropy
+
+A Raspberry Pi pico project running Micropython which interrogates the NIST randomness beacon and displays the interpreted output on a series of 42 WS2812B RGB LEDs
+
+Link to project: https://github.com/bigcrimping/study_in_entropy/
+
+![photo_new](https://github.com/user-attachments/assets/13b5426e-00cb-424d-bf5a-e61c5e1a366a)
+
+
 # Flare Meter
 
 Visual representation of X-ray Flare information from GOES-16 satellite

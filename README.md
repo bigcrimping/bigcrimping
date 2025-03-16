@@ -10,6 +10,15 @@ A micromachines compatible playset based in the DesolationDrive Universe
 
 https://github.com/bigcrimping/desolationdrive_putridpowerstation
 
+# Desolation Drive - Shark Shore
+
+Second set in the DesolationDrive Universe
+
+<img src="https://github.com/user-attachments/assets/61e285fd-02ca-4244-868c-09d18eb224fb" width="800">
+
+https://github.com/bigcrimping/desolationdrive_sharkshore
+
+
 # Pepper Mill
 
 A Raspberry Pi pico project built on Micropython to mill, dispense and weigh pepper

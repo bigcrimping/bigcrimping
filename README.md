@@ -14,7 +14,7 @@ https://github.com/bigcrimping/desolationdrive_putridpowerstation
 
 Second set in the DesolationDrive Universe
 
-<img src="https://github.com/user-attachments/assets/61e285fd-02ca-4244-868c-09d18eb224fb" width="800">
+<img src="https://github.com/user-attachments/assets/6c2533e7-52a2-4542-88b7-dea2ef486127" width="800">
 
 https://github.com/bigcrimping/desolationdrive_sharkshore
 

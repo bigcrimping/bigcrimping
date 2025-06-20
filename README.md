@@ -12,8 +12,6 @@ Link to project: https://github.com/bigcrimping/hasanukegoneoff_indicator
 
 <img src="https://github.com/user-attachments/assets/6621fc59-1d01-40b9-91f1-1ddbc34d36b6" alt="yesno_web" width="500">
 
-
-
 # Nuclear Event Detector - bhangmeterV2
 
 The BhangmeterV2 is a RaspberryPiPico2W powered device which detects the gamma ray burst from a nuclear explosion and uploads the details into a JSON.
@@ -21,8 +19,6 @@ The BhangmeterV2 is a RaspberryPiPico2W powered device which detects the gamma r
 Link to project: https://github.com/bigcrimping/bhangmeterV2
 
 <img src="https://github.com/user-attachments/assets/c01477d0-82af-4875-ba32-bf114a4e8395" alt="bhangmeterV2" width="500">
-
-
 
 # Desolation Drive - Putrid Powerstation
 

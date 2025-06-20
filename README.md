@@ -2,6 +2,20 @@
 
 A collection of the projects I work on in my spare time
 
+My website is bigcrimping.com
+
+# hasanukegoneoff.com Indicator
+
+![yesno_web](https://github.com/user-attachments/assets/6621fc59-1d01-40b9-91f1-1ddbc34d36b6)
+
+This device uses a ESP32 to interogate the status of [hasanukegoneoff.com](https://www.hasanukegoneoff.com) and turns on either the yes or no bulb depending on the answer.
+
+# Nuclear Event Detector - bhangmeterV2
+
+<img src="https://github.com/user-attachments/assets/c01477d0-82af-4875-ba32-bf114a4e8395" alt="Untitled-1">
+
+The BhangmeterV2 is a RaspberryPiPico2W powered device which detects the gamma ray burst from a nuclear explosion and uploads the details into a JSON.
+
 # Desolation Drive - Putrid Powerstation
 
 A micromachines compatible playset based in the DesolationDrive Universe

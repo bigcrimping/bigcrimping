@@ -8,7 +8,7 @@ My website is https://www.bigcrimping.com
 
 This device uses a ESP32 to interogate the status of <a href="https://www.hasanukegoneoff.com">hasanukegoneoff.com</a> and turns on either the yes or no bulb depending on the answer.
 
-Link to project: https://github.com/bigcrimping/hasanukegoneoff_indicator
+Link to project: [https://github.com/bigcrimping/hasanukegoneoff_indicator](https://github.com/bigcrimping/ned_yesno)
 
 <img src="https://github.com/user-attachments/assets/6621fc59-1d01-40b9-91f1-1ddbc34d36b6" alt="yesno_web" width="500">
 

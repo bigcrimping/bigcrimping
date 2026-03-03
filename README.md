@@ -5,12 +5,11 @@ A collection of the projects I work on in my spare time
 My website is https://www.bigcrimping.com
 # Cistercian Clock
 
-<img src="https://github.com/user-attachments/assets/9cd29f81-9203-4d00-91ab-066bb83d9574" width="500" alt="github">
-
-
 A new type of clock which display the current position in the year to the second using Cistercian Numerals.
 
 Link to project: https://github.com/bigcrimping/cistercian_clock
+
+<img src="https://github.com/user-attachments/assets/9cd29f81-9203-4d00-91ab-066bb83d9574" width="500" alt="github">
 
 # hasanukegoneoff.com Indicator
 

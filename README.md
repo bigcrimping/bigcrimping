@@ -10,7 +10,7 @@ Final set in the DesolationDrive Universe
 
 Link to project: https://github.com/bigcrimping/desolationdrive_sharkshore
 
-<img src="https://github.com/user-attachments/assets/e431c59e-6f11-49a0-b67b-2e4a13cc46d4)" alt="martianmeadow" width="500">
+<img src="https://github.com/user-attachments/assets/e431c59e-6f11-49a0-b67b-2e4a13cc46d4" alt="martianmeadow" width="500">
 
 # Cistercian Clock
 

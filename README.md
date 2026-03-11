@@ -150,14 +150,6 @@ The panless cooking solution
 
 Link to project: https://github.com/bigcrimping/CanPan
 
-# Nuclear Event Detector
-
-Utilising a HSN-1000 NED device and a soviet aircraft warning lamp a 20ms warning that a nuke has been exploded nearby. Useful
-
-Link to project: Coming Soon
-
-<p align="center"><img src="https://user-images.githubusercontent.com/74270551/180602561-18a4e819-66f3-47ea-8e1f-806eeda9c21f.png" alt="nuclear event detector" width="500"></p>
-
 # Pepper Drill
 
 Drill attachment for the pepper lover with limited time

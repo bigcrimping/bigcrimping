@@ -4,6 +4,14 @@ A collection of the projects I work on in my spare time
 
 My website is https://www.bigcrimping.com
 
+# BHG-2000 Nuclear Event Detector
+
+The Bhangmeter project uses a commercial device (HSN-1000L) to detect the gamma, as this is no longer available I created a open source alternative 
+
+Link to project: https://github.com/bigcrimping/bhg-2000_nuclear_event_detector/
+
+<img src="https://github.com/user-attachments/assets/13fd84dd-e7de-46cd-ae96-a41285c8501c" alt="bigbhang" width="500">
+
 # Desolation Drive - Martian Meadown
 
 Final set in the DesolationDrive Universe

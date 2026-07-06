@@ -4,22 +4,6 @@ A collection of the projects I work on in my spare time
 
 My website is https://www.bigcrimping.com
 
-# BHG-2000 Nuclear Event Detector
-
-The Bhangmeter project uses a commercial device (HSN-1000L) to detect the gamma, as this is no longer available I created a open source alternative 
-
-Link to project: https://github.com/bigcrimping/bhg-2000_nuclear_event_detector/
-
-<p align="center"><img src="https://github.com/user-attachments/assets/13fd84dd-e7de-46cd-ae96-a41285c8501c" alt="bigbhang" width="500"></p>
-
-# Desolation Drive - Martian Meadown
-
-Final set in the DesolationDrive Universe
-
-Link to project: https://github.com/bigcrimping/desolationdrive_martianmeadow
-
-<p align="center"><img src="https://github.com/user-attachments/assets/e431c59e-6f11-49a0-b67b-2e4a13cc46d4" alt="martianmeadow" width="500"></p>
-
 # Cistercian Clock
 
 A new type of clock which display the current position in the year to the second using Cistercian Numerals.
@@ -28,14 +12,6 @@ Link to project: https://github.com/bigcrimping/cistercian_clock
 
 <p align="center"><img src="https://github.com/user-attachments/assets/9cd29f81-9203-4d00-91ab-066bb83d9574" width="500" alt="github"></p>
 
-# hasanukegoneoff.com Indicator
-
-This device uses a ESP32 to interogate the status of <a href="https://www.hasanukegoneoff.com">hasanukegoneoff.com</a> and turns on either the yes or no bulb depending on the answer.
-
-Link to project: [https://github.com/bigcrimping/hasanukegoneoff_indicator](https://github.com/bigcrimping/ned_yesno)
-
-<p align="center"><img src="https://github.com/user-attachments/assets/6621fc59-1d01-40b9-91f1-1ddbc34d36b6" alt="yesno_web" width="500"></p>
-
 # Nuclear Event Detector - bhangmeterV2
 
 The BhangmeterV2 is a RaspberryPiPico2W powered device which detects the gamma ray burst from a nuclear explosion and uploads the details into a JSON.
@@ -43,6 +19,22 @@ The BhangmeterV2 is a RaspberryPiPico2W powered device which detects the gamma r
 Link to project: https://github.com/bigcrimping/bhangmeterV2
 
 <p align="center"><img src="https://github.com/user-attachments/assets/c01477d0-82af-4875-ba32-bf114a4e8395" alt="bhangmeterV2" width="500"></p>
+
+# BHG-2000 Nuclear Event Detector
+
+The Bhangmeter project uses a commercial device (HSN-1000L) to detect the gamma, as this is no longer available I created a open source alternative 
+
+Link to project: https://github.com/bigcrimping/bhg-2000_nuclear_event_detector/
+
+<p align="center"><img src="https://github.com/user-attachments/assets/13fd84dd-e7de-46cd-ae96-a41285c8501c" alt="bigbhang" width="500"></p>
+
+# hasanukegoneoff.com Indicator
+
+This device uses a ESP32 to interogate the status of <a href="https://www.hasanukegoneoff.com">hasanukegoneoff.com</a> and turns on either the yes or no bulb depending on the answer.
+
+Link to project: [https://github.com/bigcrimping/hasanukegoneoff_indicator](https://github.com/bigcrimping/ned_yesno)
+
+<p align="center"><img src="https://github.com/user-attachments/assets/6621fc59-1d01-40b9-91f1-1ddbc34d36b6" alt="yesno_web" width="500"></p>
 
 # Desolation Drive - Putrid Powerstation
 
@@ -60,6 +52,38 @@ Link to project: https://github.com/bigcrimping/desolationdrive_sharkshore
 
 <p align="center"><img src="https://github.com/user-attachments/assets/6c2533e7-52a2-4542-88b7-dea2ef486127" alt="sharkshore" width="500"></p>
 
+# Desolation Drive - Martian Meadown
+
+Final set in the DesolationDrive Universe
+
+Link to project: https://github.com/bigcrimping/desolationdrive_martianmeadow
+
+<p align="center"><img src="https://github.com/user-attachments/assets/e431c59e-6f11-49a0-b67b-2e4a13cc46d4" alt="martianmeadow" width="500"></p>
+
+# Study in Entropy
+
+A Raspberry Pi pico project running Micropython which interrogates the NIST randomness beacon and displays the interpreted output on a series of 42 WS2812B RGB LEDs
+
+Link to project: https://github.com/bigcrimping/study_in_entropy/
+
+<p align="center"><img src="https://github.com/user-attachments/assets/13b5426e-00cb-424d-bf5a-e61c5e1a366a" alt="photo_new" width="500"></p>
+
+# Lightning Popper
+
+A device which detects incoming lightning and thunder and sets off a party popper
+
+Link to project: https://github.com/bigcrimping/lightning_popper/
+
+<p align="center"><img src="https://github.com/bigcrimping/bigcrimping/assets/74270551/8dc8f1cd-deff-4cc8-b870-760c8646e2c6" alt="complete" width="500"></p>
+
+# submerge
+
+IN-9 based wave meter running on ESP8266.
+
+Link to project: https://github.com/bigcrimping/submerge
+
+<p align="center"><img src="https://github.com/bigcrimping/bigcrimping/assets/74270551/fd600207-9fcd-4a25-8b34-0804f7870bad" alt="submerge" width="500"></p>
+
 # Pepper Mill
 
 A Raspberry Pi pico project built on Micropython to mill, dispense and weigh pepper
@@ -69,14 +93,6 @@ Link to project: https://github.com/bigcrimping/pepper_mill/
 <p align="center"><img src="https://github.com/user-attachments/assets/c2a5d115-3f15-4f5c-9b1b-34eb589b6913" alt="pepper" width="500"></p>
 
 https://github.com/user-attachments/assets/c9c53ded-4c93-4834-9c5d-54ee37c73243
-
-# Study in Entropy
-
-A Raspberry Pi pico project running Micropython which interrogates the NIST randomness beacon and displays the interpreted output on a series of 42 WS2812B RGB LEDs
-
-Link to project: https://github.com/bigcrimping/study_in_entropy/
-
-<p align="center"><img src="https://github.com/user-attachments/assets/13b5426e-00cb-424d-bf5a-e61c5e1a366a" alt="photo_new" width="500"></p>
 
 # Flare Meter
 
@@ -101,22 +117,6 @@ Using Nixie tubes to display the current tide height in my local harbour
 Link to project: https://github.com/bigcrimping/tide_meter/
 
 <p align="center"><img src="https://github.com/bigcrimping/bigcrimping/assets/74270551/0fe76678-bbf9-4537-b2a7-b4f81fb6c4bc" alt="tide_meter" width="500"></p>
-
-# Lightning Popper
-
-A device which detects incoming lightning and thunder and sets off a party popper
-
-Link to project: https://github.com/bigcrimping/lightning_popper/
-
-<p align="center"><img src="https://github.com/bigcrimping/bigcrimping/assets/74270551/8dc8f1cd-deff-4cc8-b870-760c8646e2c6" alt="complete" width="500"></p>
-
-# submerge
-
-IN-9 based wave meter running on ESP8266.
-
-Link to project: https://github.com/bigcrimping/submerge
-
-<p align="center"><img src="https://github.com/bigcrimping/bigcrimping/assets/74270551/fd600207-9fcd-4a25-8b34-0804f7870bad" alt="submerge" width="500"></p>
 
 # Barometer
 

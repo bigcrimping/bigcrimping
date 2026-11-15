@@ -4,6 +4,14 @@ A collection of the projects I work on in my spare time
 
 My website is https://www.bigcrimping.com
 
+# Copy That Floppy
+
+A portable, battery-powered WiFi NAS built around a 3.5" floppy drive. It reads FAT12 1.44 MB disks (great for Sony Mavica photos), serves the files on a web page at floppy.local, and backs them up to microSD. It runs on an RP2354A drive controller and an ESP32-S3 WiFi bridge, and supports the Greaseweazle protocol.
+
+Link to project: https://github.com/bigcrimping/floppy3.5
+
+<p align="center"><img src="https://github.com/bigcrimping/floppy3.5/raw/main/assets/final.jpg" width="500" alt="Copy That Floppy with a Sony Mavica"></p>
+
 # Cistercian Clock
 
 A new type of clock which display the current position in the year to the second using Cistercian Numerals.
